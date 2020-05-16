@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Course Planner</string>
+
+    <string-array name="department">
+        <item>EEE</item>
+        <item>CSE</item>
+        <item>ETE</item>
+        <item>BBA</item>
+        <item>ENV</item>
+        <item>PHA</item>
+
+    </string-array>
+</resources>
